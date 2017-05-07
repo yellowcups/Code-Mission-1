@@ -1,0 +1,71 @@
+
+/*My CSS Rules*/
+
+h1 { color: #2e2a2b;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	margin: 20px 0px;	
+	}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+
+h2{ color: #ee5f5b;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 20px 0px;
+}
+
+img {
+	max-width: 100%;
+	;
+}
+
+body {
+	margin: 0;
+}
+
+p{ color: #2e2a2b;
+	font-size: 14px;
+	line-height: 1.6;
+	}
+
+ul { color: #2e2a2b;
+	font-size: 14px;
+	max-width: 900px;
+	}
+
+ol { color: #2e2a2b;
+	font-size: 14px;
+	max-width: 900px;
+	}
+
+table {
+	font-size: 14px;
+	text-align: left;
+	border: 1px solid black;
+	}
+
+blockquote{
+	font-size: 16px;
+	color: #7bc4e6;
+}
+
+footer{
+	background-color: #343951;
+	padding: 20px 0;
+}
+
+footer p{
+	color: #ffffff;
+	font-size: 18px;
+	text-align: center;
+}
+
+footer a {
+	color: #ffffff;
+}
